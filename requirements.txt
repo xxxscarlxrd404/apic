@@ -1,0 +1,23 @@
+# {{< Scaffolding dependency >}}
+fire==0.4.0
+
+# {{< Log system >}}
+loguru==0.6.0
+pyyaml==6.0
+
+# {{< Timed task >}}
+apscheduler==3.9.1
+
+# {{< Interface /Data cleaning >}}
+requests~=2.28.1
+bs4>=0.0.1
+beautifulsoup4>=4.10.0
+lxml>=4.7.1
+
+# {{< Challenger Drive >}}
+playwright==1.27.1
+hcaptcha-challenger
+undetected-playwright
+
+# {{< Message Push >}}
+apprise==1.1.0
