@@ -1,2 +1,3 @@
-2023/03/28-15:46:05.519 777 Creating DB /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/shared_proto_db/metadata since it was missing.
-2023/03/28-15:46:05.521 777 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/03/31-07:22:02.482 79e Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/03/31-07:22:02.482 79e Recovering log #3
+2023/03/31-07:22:02.482 79e Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/shared_proto_db/metadata/000003.log 
