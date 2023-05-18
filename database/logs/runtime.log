@@ -3848,3 +3848,657 @@ playwright._impl._api_types.TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
   waiting for frame "xpath=//div[@id='webPurchaseContainer']//iframe"
 ============================================================
+2023-05-19 07:20:56.470 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2023-05-19 07:20:58.365 | INFO     | services.bricklayer.core:refresh_ctx_cookies:691 - >> MATCH [__context__] 🎮启动挑战者上下文
+2023-05-19 07:20:58.443 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:21:16.523 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:21:16.523 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:21:21.144 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:21:21.145 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:21:21.958 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:21:24.115 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=2.16s
+2023-05-19 07:21:24.119 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:323 - Downloading squirrel.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/squirrel.onnx
+2023-05-19 07:21:25.861 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.47s
+2023-05-19 07:21:25.876 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:21:27.898 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:21:27.898 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:21:28.541 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:21:29.936 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.4s
+2023-05-19 07:21:31.034 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:21:31.110 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:21:31.111 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:21:33.115 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:21:46.308 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:21:46.309 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:21:48.538 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:21:48.538 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:21:49.174 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:21:50.630 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.46s
+2023-05-19 07:21:52.258 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:21:52.274 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:21:54.297 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:21:54.297 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:21:54.905 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:21:56.269 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.36s
+2023-05-19 07:21:57.971 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:21:58.032 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:21:58.032 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:22:00.035 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:22:09.991 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:22:09.991 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:22:12.207 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:22:12.207 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:22:12.834 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:22:14.197 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.36s
+2023-05-19 07:22:15.843 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:22:15.857 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:22:17.880 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:22:17.881 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:22:18.480 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:22:19.798 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.32s
+2023-05-19 07:22:20.979 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:22:21.045 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:22:21.045 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:22:23.050 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:22:35.830 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:22:35.830 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:22:38.045 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:22:38.045 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:22:38.578 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:22:39.962 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.38s
+2023-05-19 07:22:41.263 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:22:41.276 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:22:43.299 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:22:43.299 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:22:43.869 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:22:45.197 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.33s
+2023-05-19 07:22:46.895 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:22:46.954 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:22:46.954 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:22:48.958 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:23:01.678 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:23:01.679 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:23:03.898 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:23:03.899 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:23:04.489 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:23:05.763 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.27s
+2023-05-19 07:23:07.458 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:23:07.474 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:23:09.498 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:23:09.498 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:23:10.041 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:23:11.417 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.38s
+2023-05-19 07:23:12.824 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:23:12.893 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:23:12.893 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:23:14.896 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:23:27.811 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:23:27.811 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:23:29.984 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:23:29.984 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:23:30.590 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:23:31.916 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.33s
+2023-05-19 07:23:33.198 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:23:33.213 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:23:35.234 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:23:35.235 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:23:35.789 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:23:37.118 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.33s
+2023-05-19 07:23:38.668 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:23:38.731 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:23:38.732 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:23:40.735 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:23:53.464 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:23:53.464 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:23:55.682 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:23:55.683 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:23:56.217 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:23:57.558 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.34s
+2023-05-19 07:23:58.853 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:23:58.871 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:24:00.891 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:24:00.891 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:24:01.373 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:24:02.697 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.32s
+2023-05-19 07:24:03.900 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:24:03.960 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:24:03.961 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:24:05.964 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:24:18.774 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:24:18.775 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:24:20.978 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:24:20.979 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:24:21.566 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:24:22.914 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.35s
+2023-05-19 07:24:24.366 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.02s
+2023-05-19 07:24:24.381 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:24:26.401 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:24:26.402 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:24:26.944 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:24:28.202 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.26s
+2023-05-19 07:24:29.950 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:24:30.009 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:24:30.010 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:24:32.012 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-19 07:24:44.470 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-19 07:24:44.470 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-19 07:24:46.680 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:24:46.681 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:24:47.262 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:24:48.646 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.38s
+2023-05-19 07:24:50.287 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:24:50.302 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:24:52.324 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「松鼠」
+2023-05-19 07:24:52.325 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-19 07:24:52.880 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-19 07:24:54.191 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.31s
+2023-05-19 07:24:55.657 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - squirrel(ResNet)_model: 0.01s
+2023-05-19 07:24:55.728 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-19 07:24:55.728 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-19 07:24:57.731 | CRITICAL | services.bricklayer.core:refresh_ctx_cookies:717 - >> MISS [CookieManager] Identity token update failed
+2023-05-19 07:25:03.116 | INFO     | services.bricklayer.core:load_ctx_cookies:659 - >> LOAD [CookieManager] Load context cookie
+2023-05-19 07:25:03.120 | INFO     | services.explorer.explorer:load_memory:195 - 加载历史订单数据 本地缓存119小时有效
+2023-05-19 07:25:03.121 | INFO     | services.explorer.explorer:get_oder_history:216 - 初始化订单数据
+2023-05-19 07:25:03.416 | ERROR    | services.explorer.explorer:get_order_history:142 - Failed to get order history, cookie may have expired
+Traceback (most recent call last):
+  File "/home/runner/work/apic/apic/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+  File "/home/runner/work/apic/apic/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/apic/apic/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/apic/apic/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 301, in run
+    promotions = self.preload()
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 269, in preload
+    self.ph.get_oder_history(ctx_cookies=self._ctx_cookies)
+  File "/home/runner/work/apic/apic/epic/src/services/explorer/explorer.py", line 219, in get_oder_history
+    if resp := explorer.get_order_history(ctx_cookies):
+> File "/home/runner/work/apic/apic/epic/src/services/explorer/explorer.py", line 140, in get_order_history
+    raise RequestException("Failed to get order history, cookie may have expired")
+requests.exceptions.RequestException: Failed to get order history, cookie may have expired
+2023-05-19 07:25:03.804 | DEBUG    | services.deploy:preload:286 - >> Checkout [GameClaimer] DEATH STRANDING - state=待认领 link=https://store.epicgames.com/zh-CN/p/death-stranding
+2023-05-19 07:25:09.304 | DEBUG    | services.bricklayer.game:purchase_status:113 - >> Checkout [GameClaimer] DEATH STRANDING - state=获取 link=https://store.epicgames.com/zh-CN/p/death-stranding
+2023-05-19 07:25:39.862 | ERROR    | services.scaffold:claim:138 - An error has been caught in function 'claim', process 'MainProcess' (1882), thread 'MainThread' (139728260217728):
+Traceback (most recent call last):
+  File "/home/runner/work/apic/apic/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+> File "/home/runner/work/apic/apic/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/apic/apic/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/apic/apic/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 305, in run
+    result = empower_games_claimer(self.bricklayer, promotion.url, page, pattern="get")
+  File "/home/runner/work/apic/apic/epic/src/services/bricklayer/game.py", line 170, in empower_games_claimer
+    return claimer.get_free_game(page_link=page_link, page=page, pattern=pattern)
+  File "/home/runner/work/apic/apic/epic/src/services/bricklayer/game.py", line 151, in get_free_game
+    page.click("//button[@data-testid='purchase-cta-button']")
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/sync_api/_generated.py", line 8859, in click
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_sync_base.py", line 104, in _sync
+    return task.result()
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_page.py", line 690, in click
+    return await self._main_frame.click(**locals_to_params(locals()))
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_frame.py", line 484, in click
+    await self._channel.send("click", locals_to_params(locals()))
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 43, in send
+    return await self._connection.wrap_api_call(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 396, in wrap_api_call
+    return await cb()
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 78, in inner_send
+    result = next(iter(done)).result()
+playwright._impl._api_types.TimeoutError: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//button[@data-testid='purchase-cta-button']"
+  selector resolved to visible <button class="css-1ilmi4h" data-testid="purchase-cta-bu…>…</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #1
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #2
+  waiting 20ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #3
+  waiting 100ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #4
+  waiting 100ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #5
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #6
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #7
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #8
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #9
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #10
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #11
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #12
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #13
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #14
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #15
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #16
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #17
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #18
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #19
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #20
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #21
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #22
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #23
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #24
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #25
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #26
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #27
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #28
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #29
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #30
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #31
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #32
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #33
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #34
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #35
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #36
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #37
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #38
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #39
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #40
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #41
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #42
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #43
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #44
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #45
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #46
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #47
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #48
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #49
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #50
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #51
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #52
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #53
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #54
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #55
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #56
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #57
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #58
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-1jqyn8r">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #59
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #60
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div class="css-quioav" data-testid="WarningLayout">…</div> from <div class="css-1hpkump" data-testid="egs-overlay">…</div> subtree intercepts pointer events
+retrying click action, attempt #61
+  waiting 500ms
+============================================================
