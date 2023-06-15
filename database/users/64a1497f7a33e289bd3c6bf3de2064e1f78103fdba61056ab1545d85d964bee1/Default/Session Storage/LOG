@@ -1,10 +1,17 @@
-2023/06/10-07:21:02.460 7b5 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/06/10-07:21:02.460 7b5 Recovering log #8
-2023/06/10-07:21:02.466 7b5 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000008.log 
-2023/06/10-07:21:02.467 7b5 Delete type=0 #3
-2023/06/10-07:25:21.279 7b7 Level-0 table #12: started
-2023/06/10-07:25:21.281 7b7 Level-0 table #12: 8516 bytes OK
-2023/06/10-07:25:21.282 7b7 Delete type=0 #8
-2023/06/10-07:44:21.296 7b7 Level-0 table #14: started
-2023/06/10-07:44:21.298 7b7 Level-0 table #14: 6905 bytes OK
-2023/06/10-07:44:21.301 7b7 Delete type=0 #11
+2023/06/16-07:21:02.044 855 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/06/16-07:21:02.044 855 Recovering log #13
+2023/06/16-07:21:02.045 855 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000013.log 
+2023/06/16-07:21:02.046 855 Delete type=0 #3
+2023/06/16-07:21:02.046 855 Delete type=0 #8
+2023/06/16-07:42:27.884 1110 Level-0 table #17: started
+2023/06/16-07:42:27.886 1110 Level-0 table #17: 7403 bytes OK
+2023/06/16-07:42:27.889 1110 Delete type=0 #13
+2023/06/16-07:42:27.889 1110 Compacting 4@0 + 1@1 files
+2023/06/16-07:42:27.892 1110 Generated table #18@0: 1624 keys, 12444 bytes
+2023/06/16-07:42:27.892 1110 Compacted 4@0 + 1@1 files => 12444 bytes
+2023/06/16-07:42:27.893 1110 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-07:42:27.894 1110 Delete type=2 #7
+2023/06/16-07:42:27.894 1110 Delete type=2 #17
+2023/06/16-07:42:27.894 1110 Delete type=2 #12
+2023/06/16-07:42:27.894 1110 Delete type=2 #14
+2023/06/16-07:42:27.894 1110 Delete type=2 #9

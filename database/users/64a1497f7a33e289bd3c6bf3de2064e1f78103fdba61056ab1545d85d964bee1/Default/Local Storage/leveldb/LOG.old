@@ -1,4 +1,10 @@
-2023/06/09-07:21:10.380 797 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/09-07:21:10.383 797 Recovering log #8
-2023/06/09-07:21:10.384 797 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000008.log 
-2023/06/09-07:21:10.384 797 Delete type=0 #3
+2023/06/10-07:21:02.239 7b5 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/10-07:21:02.246 7b5 Recovering log #8
+2023/06/10-07:21:02.252 7b5 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000008.log 
+2023/06/10-07:21:02.252 7b5 Delete type=0 #3
+2023/06/10-07:24:08.399 7b5 Level-0 table #12: started
+2023/06/10-07:24:08.413 7b5 Level-0 table #12: 7273 bytes OK
+2023/06/10-07:24:08.414 7b5 Delete type=0 #8
+2023/06/10-07:37:08.399 7b7 Level-0 table #14: started
+2023/06/10-07:37:08.400 7b7 Level-0 table #14: 7071 bytes OK
+2023/06/10-07:37:08.402 7b7 Delete type=0 #11
