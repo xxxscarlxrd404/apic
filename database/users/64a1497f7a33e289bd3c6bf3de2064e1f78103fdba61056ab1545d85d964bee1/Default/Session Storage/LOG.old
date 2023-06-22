@@ -1,17 +1,15 @@
-2023/06/16-07:21:02.044 855 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/06/16-07:21:02.044 855 Recovering log #13
-2023/06/16-07:21:02.045 855 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000013.log 
-2023/06/16-07:21:02.046 855 Delete type=0 #3
-2023/06/16-07:21:02.046 855 Delete type=0 #8
-2023/06/16-07:42:27.884 1110 Level-0 table #17: started
-2023/06/16-07:42:27.886 1110 Level-0 table #17: 7403 bytes OK
-2023/06/16-07:42:27.889 1110 Delete type=0 #13
-2023/06/16-07:42:27.889 1110 Compacting 4@0 + 1@1 files
-2023/06/16-07:42:27.892 1110 Generated table #18@0: 1624 keys, 12444 bytes
-2023/06/16-07:42:27.892 1110 Compacted 4@0 + 1@1 files => 12444 bytes
-2023/06/16-07:42:27.893 1110 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/06/16-07:42:27.894 1110 Delete type=2 #7
-2023/06/16-07:42:27.894 1110 Delete type=2 #17
-2023/06/16-07:42:27.894 1110 Delete type=2 #12
-2023/06/16-07:42:27.894 1110 Delete type=2 #14
-2023/06/16-07:42:27.894 1110 Delete type=2 #9
+2023/06/17-07:20:26.535 7ee Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/06/17-07:20:26.540 7ee Recovering log #16
+2023/06/17-07:20:26.542 7ee Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000016.log 
+2023/06/17-07:20:26.542 7ee Delete type=2 #7
+2023/06/17-07:20:26.542 7ee Delete type=0 #3
+2023/06/17-07:20:26.542 7ee Delete type=2 #12
+2023/06/17-07:20:26.542 7ee Delete type=0 #13
+2023/06/17-07:20:26.542 7ee Delete type=2 #14
+2023/06/17-07:20:26.542 7ee Delete type=0 #8
+2023/06/17-07:20:26.542 7ee Delete type=2 #9
+2023/06/17-07:22:43.658 7f0 Level-0 table #21: started
+2023/06/17-07:22:43.660 7f0 Level-0 table #21: 8149 bytes OK
+2023/06/17-07:22:43.661 7f0 Delete type=0 #16
+2023/06/17-07:43:33.779 7f0 Level-0 table #23: started
+2023/06/17-07:43:33.799 7f0 Level-0 table #23: 418411 bytes OK
