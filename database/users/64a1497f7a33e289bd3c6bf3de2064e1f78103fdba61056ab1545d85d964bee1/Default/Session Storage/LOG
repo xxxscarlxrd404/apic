@@ -1,12 +1,15 @@
-2023/07/08-07:22:56.419 7e0 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/07/08-07:22:56.427 7e0 Recovering log #22
-2023/07/08-07:22:56.428 7e0 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000022.log 
-2023/07/08-07:22:56.429 7e0 Delete type=2 #9
-2023/07/08-07:22:56.429 7e0 Delete type=0 #20
-2023/07/08-07:22:56.429 7e0 Delete type=0 #13
-2023/07/08-07:22:56.429 7e0 Delete type=2 #7
-2023/07/08-07:22:56.429 7e0 Delete type=0 #16
-2023/07/08-07:22:56.429 7e0 Delete type=2 #12
-2023/07/08-07:22:56.429 7e0 Delete type=2 #14
-2023/07/08-07:22:56.429 7e0 Delete type=0 #8
-2023/07/08-07:22:56.429 7e0 Delete type=0 #3
+2023/07/14-07:23:34.369 7e8 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/07/14-07:23:34.384 7e8 Recovering log #22
+2023/07/14-07:23:34.401 7e8 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000022.log 
+2023/07/14-07:23:34.409 7e8 Delete type=2 #9
+2023/07/14-07:23:34.409 7e8 Delete type=0 #20
+2023/07/14-07:23:34.409 7e8 Delete type=0 #13
+2023/07/14-07:23:34.409 7e8 Delete type=2 #7
+2023/07/14-07:23:34.409 7e8 Delete type=0 #16
+2023/07/14-07:23:34.409 7e8 Delete type=2 #12
+2023/07/14-07:23:34.409 7e8 Delete type=2 #14
+2023/07/14-07:23:34.409 7e8 Delete type=0 #8
+2023/07/14-07:23:34.409 7e8 Delete type=0 #3
+2023/07/14-07:47:32.192 7e8 Level-0 table #26: started
+2023/07/14-07:47:32.195 7e8 Level-0 table #26: 8954 bytes OK
+2023/07/14-07:47:32.197 7e8 Delete type=0 #22
