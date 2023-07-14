@@ -1,15 +1,28 @@
-2023/07/14-07:23:34.369 7e8 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/07/14-07:23:34.384 7e8 Recovering log #22
-2023/07/14-07:23:34.401 7e8 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000022.log 
-2023/07/14-07:23:34.409 7e8 Delete type=2 #9
-2023/07/14-07:23:34.409 7e8 Delete type=0 #20
-2023/07/14-07:23:34.409 7e8 Delete type=0 #13
-2023/07/14-07:23:34.409 7e8 Delete type=2 #7
-2023/07/14-07:23:34.409 7e8 Delete type=0 #16
-2023/07/14-07:23:34.409 7e8 Delete type=2 #12
-2023/07/14-07:23:34.409 7e8 Delete type=2 #14
-2023/07/14-07:23:34.409 7e8 Delete type=0 #8
-2023/07/14-07:23:34.409 7e8 Delete type=0 #3
-2023/07/14-07:47:32.192 7e8 Level-0 table #26: started
-2023/07/14-07:47:32.195 7e8 Level-0 table #26: 8954 bytes OK
-2023/07/14-07:47:32.197 7e8 Delete type=0 #22
+2023/07/15-07:22:47.830 7d0 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/07/15-07:22:47.835 7d0 Recovering log #25
+2023/07/15-07:22:47.836 7d0 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000025.log 
+2023/07/15-07:22:47.837 7d0 Delete type=2 #9
+2023/07/15-07:22:47.837 7d0 Delete type=0 #20
+2023/07/15-07:22:47.837 7d0 Delete type=0 #13
+2023/07/15-07:22:47.837 7d0 Delete type=0 #22
+2023/07/15-07:22:47.837 7d0 Delete type=2 #7
+2023/07/15-07:22:47.837 7d0 Delete type=0 #16
+2023/07/15-07:22:47.837 7d0 Delete type=2 #12
+2023/07/15-07:22:47.837 7d0 Delete type=2 #14
+2023/07/15-07:22:47.837 7d0 Delete type=0 #8
+2023/07/15-07:22:47.837 7d0 Delete type=0 #3
+2023/07/15-07:35:35.614 97a Level-0 table #29: started
+2023/07/15-07:35:35.616 97a Level-0 table #29: 7449 bytes OK
+2023/07/15-07:35:35.617 97a Delete type=0 #25
+2023/07/15-07:35:35.617 97a Compacting 4@0 + 1@1 files
+2023/07/15-07:35:35.629 97a Generated table #30@0: 3340 keys, 25677 bytes
+2023/07/15-07:35:35.629 97a Compacted 4@0 + 1@1 files => 25677 bytes
+2023/07/15-07:35:35.630 97a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/15-07:35:35.630 97a Delete type=2 #18
+2023/07/15-07:35:35.630 97a Delete type=2 #23
+2023/07/15-07:35:35.631 97a Delete type=2 #26
+2023/07/15-07:35:35.631 97a Delete type=2 #29
+2023/07/15-07:35:35.631 97a Delete type=2 #21
+2023/07/15-07:46:00.508 e53 Level-0 table #32: started
+2023/07/15-07:46:00.513 e53 Level-0 table #32: 6913 bytes OK
+2023/07/15-07:46:00.514 e53 Delete type=0 #28
