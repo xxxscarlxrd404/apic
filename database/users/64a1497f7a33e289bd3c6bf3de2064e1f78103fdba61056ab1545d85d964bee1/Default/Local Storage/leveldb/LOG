@@ -1,31 +1,35 @@
-2023/07/15-07:22:47.732 7d0 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/15-07:22:47.746 7d0 Recovering log #24
-2023/07/15-07:22:47.748 7d0 Level-0 table #26: started
-2023/07/15-07:22:47.759 7d0 Level-0 table #26: 7151 bytes OK
-2023/07/15-07:22:47.759 7d0 Recovering log #26
-2023/07/15-07:22:47.760 7d0 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000026.log 
-2023/07/15-07:22:47.761 7d0 Delete type=2 #9
-2023/07/15-07:22:47.762 7d0 Delete type=0 #20
-2023/07/15-07:22:47.762 7d0 Delete type=0 #24
-2023/07/15-07:22:47.762 7d0 Delete type=0 #13
-2023/07/15-07:22:47.762 7d0 Delete type=2 #7
-2023/07/15-07:22:47.762 7d0 Delete type=0 #16
-2023/07/15-07:22:47.762 7d0 Delete type=2 #12
-2023/07/15-07:22:47.762 7d0 Delete type=2 #14
-2023/07/15-07:22:47.762 7d0 Delete type=0 #8
-2023/07/15-07:22:47.762 7d0 Delete type=0 #3
-2023/07/15-07:27:54.462 97a Level-0 table #28: started
-2023/07/15-07:27:54.464 97a Level-0 table #28: 6956 bytes OK
-2023/07/15-07:27:54.465 97a Delete type=0 #26
-2023/07/15-07:27:54.465 97a Compacting 4@0 + 1@1 files
-2023/07/15-07:27:54.467 97a Generated table #29@0: 526 keys, 4091 bytes
-2023/07/15-07:27:54.467 97a Compacted 4@0 + 1@1 files => 4091 bytes
-2023/07/15-07:27:54.467 97a compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/15-07:27:54.468 97a Delete type=2 #18
-2023/07/15-07:27:54.468 97a Delete type=2 #23
-2023/07/15-07:27:54.468 97a Delete type=2 #26
-2023/07/15-07:27:54.468 97a Delete type=2 #28
-2023/07/15-07:27:54.468 97a Delete type=2 #21
-2023/07/15-07:37:54.462 97a Level-0 table #31: started
-2023/07/15-07:37:54.464 97a Level-0 table #31: 6971 bytes OK
-2023/07/15-07:37:54.465 97a Delete type=0 #27
+2023/07/21-07:20:25.908 7de Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/21-07:20:25.909 7de Recovering log #30
+2023/07/21-07:20:25.910 7de Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000030.log 
+2023/07/21-07:20:25.910 7de Delete type=2 #18
+2023/07/21-07:20:25.911 7de Delete type=2 #9
+2023/07/21-07:20:25.911 7de Delete type=2 #23
+2023/07/21-07:20:25.911 7de Delete type=0 #26
+2023/07/21-07:20:25.911 7de Delete type=0 #20
+2023/07/21-07:20:25.911 7de Delete type=0 #24
+2023/07/21-07:20:25.911 7de Delete type=0 #13
+2023/07/21-07:20:25.911 7de Delete type=2 #7
+2023/07/21-07:20:25.911 7de Delete type=0 #16
+2023/07/21-07:20:25.911 7de Delete type=2 #12
+2023/07/21-07:20:25.911 7de Delete type=2 #14
+2023/07/21-07:20:25.911 7de Delete type=0 #8
+2023/07/21-07:20:25.911 7de Delete type=2 #21
+2023/07/21-07:20:25.911 7de Delete type=0 #3
+2023/07/21-07:27:33.393 7de Level-0 table #34: started
+2023/07/21-07:27:33.395 7de Level-0 table #34: 7128 bytes OK
+2023/07/21-07:27:33.397 7de Delete type=0 #30
+2023/07/21-07:30:33.393 c41 Level-0 table #36: started
+2023/07/21-07:30:33.396 c41 Level-0 table #36: 6998 bytes OK
+2023/07/21-07:30:33.398 c41 Delete type=0 #33
+2023/07/21-07:33:33.393 c41 Level-0 table #38: started
+2023/07/21-07:33:33.395 c41 Level-0 table #38: 6995 bytes OK
+2023/07/21-07:33:33.398 c41 Delete type=0 #35
+2023/07/21-07:33:33.398 c41 Compacting 4@0 + 1@1 files
+2023/07/21-07:33:33.400 c41 Generated table #39@0: 528 keys, 4167 bytes
+2023/07/21-07:33:33.400 c41 Compacted 4@0 + 1@1 files => 4167 bytes
+2023/07/21-07:33:33.401 c41 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/21-07:33:33.402 c41 Delete type=2 #31
+2023/07/21-07:33:33.402 c41 Delete type=2 #34
+2023/07/21-07:33:33.402 c41 Delete type=2 #36
+2023/07/21-07:33:33.402 c41 Delete type=2 #29
+2023/07/21-07:33:33.402 c41 Delete type=2 #38
