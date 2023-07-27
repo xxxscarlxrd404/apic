@@ -1,24 +1,19 @@
-2023/07/21-07:20:26.424 7de Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/07/21-07:20:26.433 7de Recovering log #31
-2023/07/21-07:20:26.437 7de Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000031.log 
-2023/07/21-07:20:26.438 7de Delete type=2 #18
-2023/07/21-07:20:26.438 7de Delete type=2 #9
-2023/07/21-07:20:26.438 7de Delete type=2 #23
-2023/07/21-07:20:26.438 7de Delete type=0 #20
-2023/07/21-07:20:26.438 7de Delete type=0 #13
-2023/07/21-07:20:26.438 7de Delete type=0 #22
-2023/07/21-07:20:26.438 7de Delete type=2 #7
-2023/07/21-07:20:26.438 7de Delete type=2 #26
-2023/07/21-07:20:26.438 7de Delete type=0 #16
-2023/07/21-07:20:26.438 7de Delete type=2 #12
-2023/07/21-07:20:26.439 7de Delete type=2 #14
-2023/07/21-07:20:26.439 7de Delete type=0 #8
-2023/07/21-07:20:26.439 7de Delete type=0 #25
-2023/07/21-07:20:26.439 7de Delete type=2 #21
-2023/07/21-07:20:26.439 7de Delete type=0 #3
-2023/07/21-07:29:19.401 c41 Level-0 table #35: started
-2023/07/21-07:29:19.403 c41 Level-0 table #35: 7401 bytes OK
-2023/07/21-07:29:19.405 c41 Delete type=0 #31
-2023/07/21-07:33:16.033 d01 Level-0 table #37: started
-2023/07/21-07:33:16.035 d01 Level-0 table #37: 9560 bytes OK
-2023/07/21-07:33:16.037 d01 Delete type=0 #34
+2023/07/22-07:20:02.648 7d5 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/07/22-07:20:02.651 7d5 Recovering log #36
+2023/07/22-07:20:02.653 7d5 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000036.log 
+2023/07/22-07:20:02.661 7d5 Delete type=2 #18
+2023/07/22-07:20:02.661 7d5 Delete type=2 #9
+2023/07/22-07:20:02.661 7d5 Delete type=2 #23
+2023/07/22-07:20:02.661 7d5 Delete type=0 #20
+2023/07/22-07:20:02.661 7d5 Delete type=0 #13
+2023/07/22-07:20:02.661 7d5 Delete type=0 #22
+2023/07/22-07:20:02.661 7d5 Delete type=2 #7
+2023/07/22-07:20:02.661 7d5 Delete type=2 #26
+2023/07/22-07:20:02.661 7d5 Delete type=0 #16
+2023/07/22-07:20:02.661 7d5 Delete type=2 #12
+2023/07/22-07:20:02.661 7d5 Delete type=2 #14
+2023/07/22-07:20:02.661 7d5 Delete type=0 #8
+2023/07/22-07:20:02.661 7d5 Delete type=0 #25
+2023/07/22-07:20:02.661 7d5 Delete type=0 #31
+2023/07/22-07:20:02.661 7d5 Delete type=2 #21
+2023/07/22-07:20:02.661 7d5 Delete type=0 #3

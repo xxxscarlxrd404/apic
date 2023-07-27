@@ -1,20 +1,29 @@
-2023/07/22-07:20:02.495 7d5 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/22-07:20:02.497 7d5 Recovering log #37
-2023/07/22-07:20:02.500 7d5 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000037.log 
-2023/07/22-07:20:02.501 7d5 Delete type=2 #18
-2023/07/22-07:20:02.501 7d5 Delete type=2 #9
-2023/07/22-07:20:02.501 7d5 Delete type=2 #23
-2023/07/22-07:20:02.501 7d5 Delete type=0 #26
-2023/07/22-07:20:02.501 7d5 Delete type=0 #20
-2023/07/22-07:20:02.501 7d5 Delete type=0 #24
-2023/07/22-07:20:02.501 7d5 Delete type=0 #13
-2023/07/22-07:20:02.501 7d5 Delete type=2 #31
-2023/07/22-07:20:02.501 7d5 Delete type=0 #30
-2023/07/22-07:20:02.501 7d5 Delete type=2 #7
-2023/07/22-07:20:02.501 7d5 Delete type=0 #16
-2023/07/22-07:20:02.501 7d5 Delete type=2 #12
-2023/07/22-07:20:02.501 7d5 Delete type=2 #14
-2023/07/22-07:20:02.501 7d5 Delete type=0 #8
-2023/07/22-07:20:02.501 7d5 Delete type=2 #29
-2023/07/22-07:20:02.501 7d5 Delete type=2 #21
-2023/07/22-07:20:02.501 7d5 Delete type=0 #3
+2023/07/28-07:19:06.078 7f3 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/28-07:19:06.079 7f3 Recovering log #37
+2023/07/28-07:19:06.079 7f3 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000037.log 
+2023/07/28-07:19:06.080 7f3 Delete type=2 #18
+2023/07/28-07:19:06.080 7f3 Delete type=2 #9
+2023/07/28-07:19:06.080 7f3 Delete type=2 #23
+2023/07/28-07:19:06.080 7f3 Delete type=0 #26
+2023/07/28-07:19:06.080 7f3 Delete type=0 #20
+2023/07/28-07:19:06.080 7f3 Delete type=0 #24
+2023/07/28-07:19:06.080 7f3 Delete type=0 #13
+2023/07/28-07:19:06.080 7f3 Delete type=2 #31
+2023/07/28-07:19:06.080 7f3 Delete type=0 #30
+2023/07/28-07:19:06.080 7f3 Delete type=2 #7
+2023/07/28-07:19:06.080 7f3 Delete type=0 #16
+2023/07/28-07:19:06.080 7f3 Delete type=2 #12
+2023/07/28-07:19:06.080 7f3 Delete type=2 #14
+2023/07/28-07:19:06.080 7f3 Delete type=0 #8
+2023/07/28-07:19:06.080 7f3 Delete type=2 #29
+2023/07/28-07:19:06.080 7f3 Delete type=2 #21
+2023/07/28-07:19:06.080 7f3 Delete type=0 #3
+2023/07/28-07:24:13.014 7f5 Level-0 table #42: started
+2023/07/28-07:24:13.016 7f5 Level-0 table #42: 6953 bytes OK
+2023/07/28-07:24:13.017 7f5 Delete type=0 #37
+2023/07/28-07:31:13.014 7f5 Level-0 table #44: started
+2023/07/28-07:31:13.016 7f5 Level-0 table #44: 7016 bytes OK
+2023/07/28-07:31:13.018 7f5 Delete type=0 #41
+2023/07/28-07:41:11.007 7f5 Level-0 table #46: started
+2023/07/28-07:41:11.008 7f5 Level-0 table #46: 6983 bytes OK
+2023/07/28-07:41:11.009 7f5 Delete type=0 #43
