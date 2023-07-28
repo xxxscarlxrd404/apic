@@ -1,37 +1,40 @@
-2023/07/28-07:19:06.270 7f3 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/07/28-07:19:06.277 7f3 Recovering log #36
-2023/07/28-07:19:06.277 7f3 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000036.log 
-2023/07/28-07:19:06.279 7f3 Delete type=2 #18
-2023/07/28-07:19:06.281 7f3 Delete type=2 #9
-2023/07/28-07:19:06.281 7f3 Delete type=2 #23
-2023/07/28-07:19:06.281 7f3 Delete type=0 #20
-2023/07/28-07:19:06.281 7f3 Delete type=0 #13
-2023/07/28-07:19:06.281 7f3 Delete type=0 #22
-2023/07/28-07:19:06.281 7f3 Delete type=2 #7
-2023/07/28-07:19:06.281 7f3 Delete type=2 #26
-2023/07/28-07:19:06.281 7f3 Delete type=0 #16
-2023/07/28-07:19:06.281 7f3 Delete type=2 #12
-2023/07/28-07:19:06.281 7f3 Delete type=2 #14
-2023/07/28-07:19:06.281 7f3 Delete type=0 #8
-2023/07/28-07:19:06.281 7f3 Delete type=0 #25
-2023/07/28-07:19:06.281 7f3 Delete type=0 #31
-2023/07/28-07:19:06.281 7f3 Delete type=2 #21
-2023/07/28-07:19:06.282 7f3 Delete type=0 #3
-2023/07/28-07:23:53.207 9fa Level-0 table #40: started
-2023/07/28-07:23:53.208 9fa Level-0 table #40: 7914 bytes OK
-2023/07/28-07:23:53.210 9fa Delete type=0 #36
-2023/07/28-07:23:53.210 9fa Compacting 4@0 + 1@1 files
-2023/07/28-07:23:53.214 9fa Generated table #41@0: 4404 keys, 33422 bytes
-2023/07/28-07:23:53.214 9fa Compacted 4@0 + 1@1 files => 33422 bytes
-2023/07/28-07:23:53.215 9fa compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/28-07:23:53.215 9fa Delete type=2 #32
-2023/07/28-07:23:53.215 9fa Delete type=2 #40
-2023/07/28-07:23:53.215 9fa Delete type=2 #35
-2023/07/28-07:23:53.215 9fa Delete type=2 #30
-2023/07/28-07:23:53.215 9fa Delete type=2 #37
-2023/07/28-07:31:27.607 9fa Level-0 table #43: started
-2023/07/28-07:31:27.608 9fa Level-0 table #43: 9546 bytes OK
-2023/07/28-07:31:27.610 9fa Delete type=0 #39
-2023/07/28-07:41:43.326 7f5 Level-0 table #45: started
-2023/07/28-07:41:43.328 7f5 Level-0 table #45: 9561 bytes OK
-2023/07/28-07:41:43.330 7f5 Delete type=0 #42
+2023/07/29-07:19:44.282 804 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/07/29-07:19:44.283 804 Recovering log #44
+2023/07/29-07:19:44.286 804 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000044.log 
+2023/07/29-07:19:44.291 804 Delete type=2 #18
+2023/07/29-07:19:44.291 804 Delete type=2 #9
+2023/07/29-07:19:44.291 804 Delete type=2 #23
+2023/07/29-07:19:44.291 804 Delete type=2 #32
+2023/07/29-07:19:44.292 804 Delete type=0 #36
+2023/07/29-07:19:44.292 804 Delete type=0 #20
+2023/07/29-07:19:44.292 804 Delete type=0 #13
+2023/07/29-07:19:44.292 804 Delete type=0 #22
+2023/07/29-07:19:44.292 804 Delete type=2 #7
+2023/07/29-07:19:44.292 804 Delete type=2 #26
+2023/07/29-07:19:44.292 804 Delete type=0 #16
+2023/07/29-07:19:44.292 804 Delete type=2 #12
+2023/07/29-07:19:44.292 804 Delete type=2 #14
+2023/07/29-07:19:44.292 804 Delete type=0 #8
+2023/07/29-07:19:44.292 804 Delete type=2 #35
+2023/07/29-07:19:44.292 804 Delete type=2 #30
+2023/07/29-07:19:44.292 804 Delete type=0 #25
+2023/07/29-07:19:44.292 804 Delete type=0 #31
+2023/07/29-07:19:44.292 804 Delete type=2 #37
+2023/07/29-07:19:44.293 804 Delete type=2 #21
+2023/07/29-07:19:44.293 804 Delete type=0 #3
+2023/07/29-07:29:36.967 804 Level-0 table #48: started
+2023/07/29-07:29:36.970 804 Level-0 table #48: 7445 bytes OK
+2023/07/29-07:29:36.972 804 Delete type=0 #44
+2023/07/29-07:43:14.407 fa6 Level-0 table #50: started
+2023/07/29-07:43:14.410 fa6 Level-0 table #50: 9542 bytes OK
+2023/07/29-07:43:14.412 fa6 Delete type=0 #47
+2023/07/29-07:43:14.412 fa6 Expanding@0 2+1 (19107+33422 bytes) to 4+1 (36094+33422 bytes)
+2023/07/29-07:43:14.412 fa6 Compacting 4@0 + 1@1 files
+2023/07/29-07:43:14.417 fa6 Generated table #51@0: 4939 keys, 37163 bytes
+2023/07/29-07:43:14.417 fa6 Compacted 4@0 + 1@1 files => 37163 bytes
+2023/07/29-07:43:14.418 fa6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/29-07:43:14.419 fa6 Delete type=2 #45
+2023/07/29-07:43:14.419 fa6 Delete type=2 #41
+2023/07/29-07:43:14.419 fa6 Delete type=2 #43
+2023/07/29-07:43:14.419 fa6 Delete type=2 #50
+2023/07/29-07:43:14.419 fa6 Delete type=2 #48

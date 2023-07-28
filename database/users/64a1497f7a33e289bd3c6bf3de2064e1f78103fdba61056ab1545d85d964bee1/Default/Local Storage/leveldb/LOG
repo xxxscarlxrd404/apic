@@ -1,29 +1,39 @@
-2023/07/28-07:19:06.078 7f3 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/28-07:19:06.079 7f3 Recovering log #37
-2023/07/28-07:19:06.079 7f3 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000037.log 
-2023/07/28-07:19:06.080 7f3 Delete type=2 #18
-2023/07/28-07:19:06.080 7f3 Delete type=2 #9
-2023/07/28-07:19:06.080 7f3 Delete type=2 #23
-2023/07/28-07:19:06.080 7f3 Delete type=0 #26
-2023/07/28-07:19:06.080 7f3 Delete type=0 #20
-2023/07/28-07:19:06.080 7f3 Delete type=0 #24
-2023/07/28-07:19:06.080 7f3 Delete type=0 #13
-2023/07/28-07:19:06.080 7f3 Delete type=2 #31
-2023/07/28-07:19:06.080 7f3 Delete type=0 #30
-2023/07/28-07:19:06.080 7f3 Delete type=2 #7
-2023/07/28-07:19:06.080 7f3 Delete type=0 #16
-2023/07/28-07:19:06.080 7f3 Delete type=2 #12
-2023/07/28-07:19:06.080 7f3 Delete type=2 #14
-2023/07/28-07:19:06.080 7f3 Delete type=0 #8
-2023/07/28-07:19:06.080 7f3 Delete type=2 #29
-2023/07/28-07:19:06.080 7f3 Delete type=2 #21
-2023/07/28-07:19:06.080 7f3 Delete type=0 #3
-2023/07/28-07:24:13.014 7f5 Level-0 table #42: started
-2023/07/28-07:24:13.016 7f5 Level-0 table #42: 6953 bytes OK
-2023/07/28-07:24:13.017 7f5 Delete type=0 #37
-2023/07/28-07:31:13.014 7f5 Level-0 table #44: started
-2023/07/28-07:31:13.016 7f5 Level-0 table #44: 7016 bytes OK
-2023/07/28-07:31:13.018 7f5 Delete type=0 #41
-2023/07/28-07:41:11.007 7f5 Level-0 table #46: started
-2023/07/28-07:41:11.008 7f5 Level-0 table #46: 6983 bytes OK
-2023/07/28-07:41:11.009 7f5 Delete type=0 #43
+2023/07/29-07:19:44.150 804 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/29-07:19:44.151 804 Recovering log #45
+2023/07/29-07:19:44.155 804 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000045.log 
+2023/07/29-07:19:44.156 804 Delete type=2 #18
+2023/07/29-07:19:44.156 804 Delete type=2 #9
+2023/07/29-07:19:44.156 804 Delete type=2 #23
+2023/07/29-07:19:44.156 804 Delete type=0 #26
+2023/07/29-07:19:44.156 804 Delete type=0 #20
+2023/07/29-07:19:44.156 804 Delete type=0 #24
+2023/07/29-07:19:44.156 804 Delete type=0 #13
+2023/07/29-07:19:44.157 804 Delete type=2 #31
+2023/07/29-07:19:44.157 804 Delete type=0 #30
+2023/07/29-07:19:44.157 804 Delete type=2 #7
+2023/07/29-07:19:44.157 804 Delete type=0 #16
+2023/07/29-07:19:44.157 804 Delete type=2 #12
+2023/07/29-07:19:44.157 804 Delete type=2 #14
+2023/07/29-07:19:44.157 804 Delete type=0 #37
+2023/07/29-07:19:44.157 804 Delete type=0 #8
+2023/07/29-07:19:44.157 804 Delete type=2 #29
+2023/07/29-07:19:44.157 804 Delete type=2 #21
+2023/07/29-07:19:44.157 804 Delete type=0 #3
+2023/07/29-07:22:53.111 804 Level-0 table #49: started
+2023/07/29-07:22:53.113 804 Level-0 table #49: 6995 bytes OK
+2023/07/29-07:22:53.115 804 Delete type=0 #45
+2023/07/29-07:22:53.115 804 Compacting 4@0 + 1@1 files
+2023/07/29-07:22:53.118 804 Generated table #50@0: 528 keys, 4169 bytes
+2023/07/29-07:22:53.118 804 Compacted 4@0 + 1@1 files => 4169 bytes
+2023/07/29-07:22:53.120 804 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/29-07:22:53.135 804 Delete type=2 #49
+2023/07/29-07:22:53.139 804 Delete type=2 #42
+2023/07/29-07:22:53.139 804 Delete type=2 #44
+2023/07/29-07:22:53.139 804 Delete type=2 #39
+2023/07/29-07:22:53.139 804 Delete type=2 #46
+2023/07/29-07:29:53.112 806 Level-0 table #52: started
+2023/07/29-07:29:53.134 806 Level-0 table #52: 7058 bytes OK
+2023/07/29-07:29:53.136 806 Delete type=0 #48
+2023/07/29-07:42:53.111 806 Level-0 table #54: started
+2023/07/29-07:42:53.113 806 Level-0 table #54: 7034 bytes OK
+2023/07/29-07:42:53.116 806 Delete type=0 #51
