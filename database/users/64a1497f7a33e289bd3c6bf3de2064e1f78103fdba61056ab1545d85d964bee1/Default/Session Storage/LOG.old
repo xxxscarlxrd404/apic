@@ -1,40 +1,34 @@
-2023/07/29-07:19:44.282 804 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/07/29-07:19:44.283 804 Recovering log #44
-2023/07/29-07:19:44.286 804 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000044.log 
-2023/07/29-07:19:44.291 804 Delete type=2 #18
-2023/07/29-07:19:44.291 804 Delete type=2 #9
-2023/07/29-07:19:44.291 804 Delete type=2 #23
-2023/07/29-07:19:44.291 804 Delete type=2 #32
-2023/07/29-07:19:44.292 804 Delete type=0 #36
-2023/07/29-07:19:44.292 804 Delete type=0 #20
-2023/07/29-07:19:44.292 804 Delete type=0 #13
-2023/07/29-07:19:44.292 804 Delete type=0 #22
-2023/07/29-07:19:44.292 804 Delete type=2 #7
-2023/07/29-07:19:44.292 804 Delete type=2 #26
-2023/07/29-07:19:44.292 804 Delete type=0 #16
-2023/07/29-07:19:44.292 804 Delete type=2 #12
-2023/07/29-07:19:44.292 804 Delete type=2 #14
-2023/07/29-07:19:44.292 804 Delete type=0 #8
-2023/07/29-07:19:44.292 804 Delete type=2 #35
-2023/07/29-07:19:44.292 804 Delete type=2 #30
-2023/07/29-07:19:44.292 804 Delete type=0 #25
-2023/07/29-07:19:44.292 804 Delete type=0 #31
-2023/07/29-07:19:44.292 804 Delete type=2 #37
-2023/07/29-07:19:44.293 804 Delete type=2 #21
-2023/07/29-07:19:44.293 804 Delete type=0 #3
-2023/07/29-07:29:36.967 804 Level-0 table #48: started
-2023/07/29-07:29:36.970 804 Level-0 table #48: 7445 bytes OK
-2023/07/29-07:29:36.972 804 Delete type=0 #44
-2023/07/29-07:43:14.407 fa6 Level-0 table #50: started
-2023/07/29-07:43:14.410 fa6 Level-0 table #50: 9542 bytes OK
-2023/07/29-07:43:14.412 fa6 Delete type=0 #47
-2023/07/29-07:43:14.412 fa6 Expanding@0 2+1 (19107+33422 bytes) to 4+1 (36094+33422 bytes)
-2023/07/29-07:43:14.412 fa6 Compacting 4@0 + 1@1 files
-2023/07/29-07:43:14.417 fa6 Generated table #51@0: 4939 keys, 37163 bytes
-2023/07/29-07:43:14.417 fa6 Compacted 4@0 + 1@1 files => 37163 bytes
-2023/07/29-07:43:14.418 fa6 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/29-07:43:14.419 fa6 Delete type=2 #45
-2023/07/29-07:43:14.419 fa6 Delete type=2 #41
-2023/07/29-07:43:14.419 fa6 Delete type=2 #43
-2023/07/29-07:43:14.419 fa6 Delete type=2 #50
-2023/07/29-07:43:14.419 fa6 Delete type=2 #48
+2023/08/04-07:20:24.138 81f Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/08/04-07:20:24.141 81f Recovering log #49
+2023/08/04-07:20:24.146 81f Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000049.log 
+2023/08/04-07:20:24.147 81f Delete type=2 #7
+2023/08/04-07:20:24.147 81f Delete type=2 #23
+2023/08/04-07:20:24.147 81f Delete type=2 #43
+2023/08/04-07:20:24.147 81f Delete type=0 #13
+2023/08/04-07:20:24.147 81f Delete type=2 #35
+2023/08/04-07:20:24.147 81f Delete type=2 #9
+2023/08/04-07:20:24.147 81f Delete type=0 #3
+2023/08/04-07:20:24.147 81f Delete type=2 #41
+2023/08/04-07:20:24.147 81f Delete type=2 #21
+2023/08/04-07:20:24.148 81f Delete type=0 #20
+2023/08/04-07:20:24.148 81f Delete type=0 #36
+2023/08/04-07:20:24.148 81f Delete type=0 #22
+2023/08/04-07:20:24.148 81f Delete type=2 #37
+2023/08/04-07:20:24.148 81f Delete type=2 #45
+2023/08/04-07:20:24.148 81f Delete type=2 #26
+2023/08/04-07:20:24.148 81f Delete type=2 #14
+2023/08/04-07:20:24.148 81f Delete type=2 #30
+2023/08/04-07:20:24.148 81f Delete type=2 #32
+2023/08/04-07:20:24.148 81f Delete type=0 #16
+2023/08/04-07:20:24.148 81f Delete type=0 #25
+2023/08/04-07:20:24.148 81f Delete type=2 #18
+2023/08/04-07:20:24.148 81f Delete type=0 #44
+2023/08/04-07:20:24.148 81f Delete type=0 #8
+2023/08/04-07:20:24.148 81f Delete type=0 #31
+2023/08/04-07:20:24.148 81f Delete type=2 #12
+2023/08/04-07:31:48.829 81f Level-0 table #54: started
+2023/08/04-07:31:48.831 81f Level-0 table #54: 8145 bytes OK
+2023/08/04-07:31:48.833 81f Delete type=0 #49
+2023/08/04-07:44:42.297 81f Level-0 table #56: started
+2023/08/04-07:44:42.299 81f Level-0 table #56: 9564 bytes OK
+2023/08/04-07:44:42.303 81f Delete type=0 #53

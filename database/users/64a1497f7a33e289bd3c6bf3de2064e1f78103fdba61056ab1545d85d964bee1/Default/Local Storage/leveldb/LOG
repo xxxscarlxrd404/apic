@@ -1,41 +1,33 @@
-2023/08/04-07:20:23.967 81f Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/04-07:20:23.970 81f Recovering log #53
-2023/08/04-07:20:23.971 81f Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000053.log 
-2023/08/04-07:20:23.972 81f Delete type=2 #7
-2023/08/04-07:20:23.972 81f Delete type=2 #23
-2023/08/04-07:20:23.972 81f Delete type=0 #30
-2023/08/04-07:20:23.972 81f Delete type=0 #13
-2023/08/04-07:20:23.972 81f Delete type=2 #9
-2023/08/04-07:20:23.972 81f Delete type=0 #3
-2023/08/04-07:20:23.972 81f Delete type=2 #42
-2023/08/04-07:20:23.972 81f Delete type=2 #44
-2023/08/04-07:20:23.972 81f Delete type=2 #21
-2023/08/04-07:20:23.972 81f Delete type=0 #20
-2023/08/04-07:20:23.972 81f Delete type=0 #26
-2023/08/04-07:20:23.972 81f Delete type=2 #29
-2023/08/04-07:20:23.972 81f Delete type=0 #37
-2023/08/04-07:20:23.973 81f Delete type=2 #14
-2023/08/04-07:20:23.973 81f Delete type=0 #24
-2023/08/04-07:20:23.973 81f Delete type=2 #31
-2023/08/04-07:20:23.973 81f Delete type=0 #16
-2023/08/04-07:20:23.973 81f Delete type=2 #18
-2023/08/04-07:20:23.973 81f Delete type=2 #39
-2023/08/04-07:20:23.973 81f Delete type=0 #45
-2023/08/04-07:20:23.973 81f Delete type=0 #8
-2023/08/04-07:20:23.973 81f Delete type=2 #46
-2023/08/04-07:20:23.973 81f Delete type=2 #12
-2023/08/04-07:25:33.803 81f Level-0 table #57: started
-2023/08/04-07:25:33.807 81f Level-0 table #57: 7012 bytes OK
-2023/08/04-07:25:33.809 81f Delete type=0 #53
-2023/08/04-07:37:33.805 81f Level-0 table #59: started
-2023/08/04-07:37:33.807 81f Level-0 table #59: 6983 bytes OK
-2023/08/04-07:37:33.809 81f Delete type=0 #56
-2023/08/04-07:37:33.810 81f Compacting 4@0 + 1@1 files
-2023/08/04-07:37:33.812 81f Generated table #60@0: 528 keys, 4166 bytes
-2023/08/04-07:37:33.812 81f Compacted 4@0 + 1@1 files => 4166 bytes
-2023/08/04-07:37:33.813 81f compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/08/04-07:37:33.814 81f Delete type=2 #59
-2023/08/04-07:37:33.814 81f Delete type=2 #54
-2023/08/04-07:37:33.814 81f Delete type=2 #50
-2023/08/04-07:37:33.814 81f Delete type=2 #57
-2023/08/04-07:37:33.814 81f Delete type=2 #52
+2023/08/05-07:19:05.387 838 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/05-07:19:05.388 838 Recovering log #58
+2023/08/05-07:19:05.389 838 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Local Storage/leveldb/000058.log 
+2023/08/05-07:19:05.390 838 Delete type=2 #7
+2023/08/05-07:19:05.390 838 Delete type=2 #23
+2023/08/05-07:19:05.390 838 Delete type=0 #30
+2023/08/05-07:19:05.390 838 Delete type=0 #13
+2023/08/05-07:19:05.390 838 Delete type=2 #9
+2023/08/05-07:19:05.390 838 Delete type=0 #3
+2023/08/05-07:19:05.390 838 Delete type=2 #42
+2023/08/05-07:19:05.390 838 Delete type=2 #44
+2023/08/05-07:19:05.390 838 Delete type=2 #21
+2023/08/05-07:19:05.390 838 Delete type=0 #20
+2023/08/05-07:19:05.390 838 Delete type=0 #53
+2023/08/05-07:19:05.390 838 Delete type=0 #26
+2023/08/05-07:19:05.390 838 Delete type=2 #29
+2023/08/05-07:19:05.390 838 Delete type=0 #37
+2023/08/05-07:19:05.390 838 Delete type=2 #14
+2023/08/05-07:19:05.390 838 Delete type=0 #24
+2023/08/05-07:19:05.390 838 Delete type=2 #54
+2023/08/05-07:19:05.390 838 Delete type=2 #50
+2023/08/05-07:19:05.390 838 Delete type=2 #31
+2023/08/05-07:19:05.390 838 Delete type=0 #16
+2023/08/05-07:19:05.390 838 Delete type=2 #18
+2023/08/05-07:19:05.390 838 Delete type=2 #39
+2023/08/05-07:19:05.390 838 Delete type=0 #45
+2023/08/05-07:19:05.390 838 Delete type=0 #8
+2023/08/05-07:19:05.390 838 Delete type=2 #46
+2023/08/05-07:19:05.390 838 Delete type=2 #12
+2023/08/05-07:19:05.390 838 Delete type=2 #52
+2023/08/05-07:31:11.837 b3c Level-0 table #63: started
+2023/08/05-07:31:11.838 b3c Level-0 table #63: 6990 bytes OK
+2023/08/05-07:31:11.840 b3c Delete type=0 #58
