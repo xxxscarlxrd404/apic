@@ -9739,3 +9739,141 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/hcaptcha_challenger/_solutions/resnet.py", line 34, in classifier
     if img.shape[0] == ChallengeStyle.WATERMARK:
 AttributeError: 'NoneType' object has no attribute 'shape'
+2023-08-11 07:19:21.306 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2023-08-11 07:19:23.053 | INFO     | services.bricklayer.core:refresh_ctx_cookies:691 - >> MATCH [__context__] 🎮启动挑战者上下文
+2023-08-11 07:19:23.097 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:19:34.400 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:19:34.401 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:19:36.600 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:19:36.600 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:19:37.087 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:19:38.673 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.59s
+2023-08-11 07:19:38.913 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:20:14.792 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:20:14.792 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:20:16.925 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「花」
+2023-08-11 07:20:16.926 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:20:17.343 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:20:18.595 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.25s
+2023-08-11 07:20:18.727 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:20:54.396 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:20:54.396 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:20:56.566 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「花」
+2023-08-11 07:20:56.567 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:20:56.948 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:20:58.253 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.3s
+2023-08-11 07:20:58.421 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:21:34.134 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:21:34.134 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:21:36.253 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:21:36.253 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:21:36.607 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:21:37.833 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.23s
+2023-08-11 07:21:37.998 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:22:13.722 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:22:13.722 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:22:15.870 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击狗」
+2023-08-11 07:22:15.870 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:22:15.883 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:22:17.229 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.35s
+2023-08-11 07:22:17.405 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:22:53.148 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:22:53.148 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:22:55.284 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:22:55.285 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:22:55.651 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:22:56.864 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.21s
+2023-08-11 07:22:57.057 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:23:32.580 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:23:32.580 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:23:34.719 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「花」
+2023-08-11 07:23:34.720 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:23:35.064 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:23:36.304 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.24s
+2023-08-11 07:23:36.432 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:24:12.179 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:24:12.180 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:24:22.367 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:24:22.367 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:24:22.762 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:24:24.119 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.36s
+2023-08-11 07:24:24.300 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:24:59.958 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:24:59.958 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:25:02.135 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:25:02.136 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:25:02.498 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:25:03.917 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.42s
+2023-08-11 07:25:04.065 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:25:39.798 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:25:39.799 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:25:43.951 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「花」
+2023-08-11 07:25:43.952 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:25:44.311 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:25:45.717 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.41s
+2023-08-11 07:25:45.879 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:26:21.569 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:26:21.569 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:26:23.698 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:26:23.699 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:26:24.052 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:26:25.476 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.42s
+2023-08-11 07:26:25.628 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:27:01.328 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:27:01.328 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:27:03.461 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「花」
+2023-08-11 07:27:03.461 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:27:03.814 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:27:05.284 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.47s
+2023-08-11 07:27:05.442 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:27:41.108 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:27:41.108 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:27:43.286 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:27:43.286 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:27:43.655 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:27:44.892 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.24s
+2023-08-11 07:27:45.074 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:28:20.805 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:28:20.806 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:28:22.946 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「笔记本电脑」
+2023-08-11 07:28:22.946 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:28:23.293 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:28:24.534 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.24s
+2023-08-11 07:28:24.696 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-08-11 07:29:00.321 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-08-11 07:29:00.321 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-08-11 07:29:02.462 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「机器人」
+2023-08-11 07:29:02.462 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-08-11 07:29:02.820 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-08-11 07:29:04.048 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.23s
+2023-08-11 07:29:04.202 | ERROR    | services.scaffold:claim:138 - An error has been caught in function 'claim', process 'MainProcess' (1939), thread 'MainThread' (140085650689088):
+Traceback (most recent call last):
+  File "/home/runner/work/apic/apic/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+> File "/home/runner/work/apic/apic/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/apic/apic/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/apic/apic/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/apic/apic/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/apic/apic/epic/src/services/bricklayer/core.py", line 708, in refresh_ctx_cookies
+    resp = self.armor.anti_hcaptcha(page, window="login", recur_url=recur_url)
+  File "/home/runner/work/apic/apic/epic/src/services/bricklayer/core.py", line 267, in anti_hcaptcha
+    self.challenge(frame_challenge, model=model)
+  File "/home/runner/work/apic/apic/epic/src/services/bricklayer/core.py", line 125, in challenge
+    result = model.solution(img_stream=data, label=self.label_alias[self.label])
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/hcaptcha_challenger/_solutions/resnet.py", line 66, in solution
+    return self.classifier(img_stream, feature_filters=None)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/hcaptcha_challenger/_solutions/resnet.py", line 34, in classifier
+    if img.shape[0] == ChallengeStyle.WATERMARK:
+AttributeError: 'NoneType' object has no attribute 'shape'
