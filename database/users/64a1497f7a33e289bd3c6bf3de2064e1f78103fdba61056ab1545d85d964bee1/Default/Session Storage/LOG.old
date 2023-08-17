@@ -1,29 +1,31 @@
-2023/08/11-07:19:22.805 830 Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
-2023/08/11-07:19:22.806 830 Recovering log #55
-2023/08/11-07:19:22.807 830 Reusing old log /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/000055.log 
-2023/08/11-07:19:22.808 830 Delete type=2 #7
-2023/08/11-07:19:22.808 830 Delete type=2 #23
-2023/08/11-07:19:22.808 830 Delete type=2 #43
-2023/08/11-07:19:22.808 830 Delete type=0 #13
-2023/08/11-07:19:22.808 830 Delete type=2 #35
-2023/08/11-07:19:22.808 830 Delete type=2 #9
-2023/08/11-07:19:22.808 830 Delete type=0 #3
-2023/08/11-07:19:22.808 830 Delete type=2 #41
-2023/08/11-07:19:22.808 830 Delete type=2 #21
-2023/08/11-07:19:22.808 830 Delete type=0 #20
-2023/08/11-07:19:22.808 830 Delete type=0 #36
-2023/08/11-07:19:22.808 830 Delete type=0 #22
-2023/08/11-07:19:22.808 830 Delete type=2 #37
-2023/08/11-07:19:22.808 830 Delete type=2 #45
-2023/08/11-07:19:22.808 830 Delete type=2 #26
-2023/08/11-07:19:22.808 830 Delete type=2 #14
-2023/08/11-07:19:22.808 830 Delete type=2 #30
-2023/08/11-07:19:22.808 830 Delete type=2 #32
-2023/08/11-07:19:22.809 830 Delete type=0 #16
-2023/08/11-07:19:22.809 830 Delete type=0 #49
-2023/08/11-07:19:22.809 830 Delete type=0 #25
-2023/08/11-07:19:22.809 830 Delete type=2 #18
-2023/08/11-07:19:22.809 830 Delete type=0 #44
-2023/08/11-07:19:22.809 830 Delete type=0 #8
-2023/08/11-07:19:22.809 830 Delete type=0 #31
-2023/08/11-07:19:22.809 830 Delete type=2 #12
+2023/08/12-07:19:00.393 7df Reusing MANIFEST /home/runner/work/apic/apic/epic/src/database/users/64a1497f7a33e289bd3c6bf3de2064e1f78103fdba61056ab1545d85d964bee1/Default/Session Storage/MANIFEST-000001
+2023/08/12-07:19:00.394 7df Recovering log #55
+2023/08/12-07:19:00.394 7df Level-0 table #58: started
+2023/08/12-07:19:00.398 7df Level-0 table #58: 8289 bytes OK
+2023/08/12-07:19:00.407 7df Delete type=2 #7
+2023/08/12-07:19:00.408 7df Delete type=0 #55
+2023/08/12-07:19:00.408 7df Delete type=2 #23
+2023/08/12-07:19:00.408 7df Delete type=2 #43
+2023/08/12-07:19:00.408 7df Delete type=0 #13
+2023/08/12-07:19:00.408 7df Delete type=2 #35
+2023/08/12-07:19:00.408 7df Delete type=2 #9
+2023/08/12-07:19:00.408 7df Delete type=0 #3
+2023/08/12-07:19:00.408 7df Delete type=2 #41
+2023/08/12-07:19:00.408 7df Delete type=2 #21
+2023/08/12-07:19:00.408 7df Delete type=0 #20
+2023/08/12-07:19:00.408 7df Delete type=0 #36
+2023/08/12-07:19:00.408 7df Delete type=0 #22
+2023/08/12-07:19:00.408 7df Delete type=2 #37
+2023/08/12-07:19:00.408 7df Delete type=2 #45
+2023/08/12-07:19:00.408 7df Delete type=2 #26
+2023/08/12-07:19:00.408 7df Delete type=2 #14
+2023/08/12-07:19:00.408 7df Delete type=2 #30
+2023/08/12-07:19:00.408 7df Delete type=2 #32
+2023/08/12-07:19:00.408 7df Delete type=0 #16
+2023/08/12-07:19:00.408 7df Delete type=0 #49
+2023/08/12-07:19:00.408 7df Delete type=0 #25
+2023/08/12-07:19:00.408 7df Delete type=2 #18
+2023/08/12-07:19:00.408 7df Delete type=0 #44
+2023/08/12-07:19:00.408 7df Delete type=0 #8
+2023/08/12-07:19:00.408 7df Delete type=0 #31
+2023/08/12-07:19:00.408 7df Delete type=2 #12
